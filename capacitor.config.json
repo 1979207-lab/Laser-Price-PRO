@@ -1,0 +1,6 @@
+{
+  "appId": "ru.laserpricepro.app",
+  "appName": "Laser Price PRO",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
